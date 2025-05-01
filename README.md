@@ -1,4 +1,4 @@
-echo "# 🌿 Healing_Bloom_Product_RecommendingEngine
+# 🌿 Healing_Bloom_Product_RecommendingEngine
 
 This is the backend system for the **Product Recommender** in the Healing Bloom platform. It uses **machine learning models** and **facial analysis** to detect acne-related conditions and recommend personalized skincare products.
 
